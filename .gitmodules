@@ -1,0 +1,27 @@
+[submodule "Memory/Map"]
+	path = Memory/Map
+	url = https://github.com/AdamNaghs/C-Memory-Map.git
+[submodule "Memory/Arena"]
+	path = Memory/Arena
+	url = https://github.com/AdamNaghs/C-Memory-Arena.git
+[submodule "Collection/VailedVector"]
+	path = Collection/VailedVector
+	url = https://github.com/AdamNaghs/C-Collection-VailedVector.git
+[submodule "Collection/Vector"]
+	path = Collection/Vector
+	url = https://github.com/AdamNaghs/C-Collection-Vector.git
+[submodule "Collection/Map"]
+	path = Collection/Map
+	url = https://github.com/AdamNaghs/C-Collection-Map.git
+[submodule "String"]
+	path = String
+	url = https://github.com/AdamNaghs/C-String.git
+[submodule "Bitset"]
+	path = Bitset
+	url = https://github.com/AdamNaghs/C-Bitset.git
+[submodule "Collection/LinkedList"]
+	path = Collection/LinkedList
+	url = https://github.com/AdamNaghs/C-Collection-LinkedList.git
+[submodule "Testing/C-Testing-Framework"]
+	path = Testing/C-Testing-Framework
+	url = https://github.com/AdamNaghs/C-Testing-Framework.git
